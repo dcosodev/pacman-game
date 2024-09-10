@@ -1,6 +1,6 @@
 # 🕹️ Pacman React Game 👾
 
-![Pacman React Game Screenshot](/images/screenshot.png)
+![Pacman React Game Screenshot](/images/screenshot.PNG)
 
 Chomp your way through this exciting Pacman-inspired game built with React, TypeScript, and Tailwind CSS! 🍒🍓🍊
 
