@@ -1,5 +1,3 @@
-#### `README.md`
-```markdown
 # Pacman React Game
 
 A simple Pacman-inspired game built with React, TypeScript, and Tailwind CSS. Navigate Pacman through a maze, avoid ghosts, and score points by eating them!
